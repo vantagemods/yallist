@@ -372,5 +372,5 @@ function Node (value, prev, next, list) {
 
 try {
   // add if support or Symbol.iterator is present
-  require('./iterator')
+  //require('./iterator')
 } catch (er) {}
